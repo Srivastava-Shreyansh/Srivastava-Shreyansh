@@ -8,22 +8,6 @@
 💻 Building Modern Web Applications • 🤖 Exploring Artificial Intelligence • 🔐 Future Cybersecurity Engineer
 </h3>
 
-<p align="center">
-
-<a href="https://komarev.com/ghpvc/?username=Srivastava-Shreyansh">
-<img src="https://komarev.com/ghpvc/?username=Srivastava-Shreyansh&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-</a>
-
-<a href="https://github.com/Srivastava-Shreyansh?tab=followers">
-<img src="https://img.shields.io/github/followers/Srivastava-Shreyansh?logo=github&style=for-the-badge"/>
-</a>
-
-<a href="https://github.com/Srivastava-Shreyansh">
-<img src="https://img.shields.io/github/stars/Srivastava-Shreyansh?affiliations=OWNER&style=for-the-badge"/>
-</a>
-
-</p>
-
 ---
 
 # 🌌 About Me
