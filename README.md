@@ -45,29 +45,7 @@ Every project I build is another step toward becoming a developer capable of des
 
 ---
 
-# 🛣️ Roadmap
 
-```text
-██████████████████░░░░░░░ JavaScript
-
-████████████████░░░░░░░░░ MERN Stack
-
-██████████████░░░░░░░░░░░ Git & GitHub
-
-████████████░░░░░░░░░░░░░ DSA
-
-████████░░░░░░░░░░░░░░░░░ Next.js
-
-██████░░░░░░░░░░░░░░░░░░░ TypeScript
-
-████░░░░░░░░░░░░░░░░░░░░░ Machine Learning
-
-███░░░░░░░░░░░░░░░░░░░░░░ Cloud
-
-██░░░░░░░░░░░░░░░░░░░░░░░ Cybersecurity
-```
-
----
 
 # 💻 Tech Arsenal
 
@@ -121,16 +99,6 @@ Every project I build is another step toward becoming a developer capable of des
 
 ---
 
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Srivastava-Shreyansh&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
 # 🚀 Featured Projects
 
 ### 🎓 Integrated Virtual Classroom & Management Platform
@@ -170,7 +138,6 @@ Designed exclusively for **vendors** and **walk-in customers**, it enables users
 * AI Research
 * Machine Learning
 * Deep Learning
-* Cloud Computing
 * Build products impacting millions of users
 
 ---
@@ -197,7 +164,6 @@ Designed exclusively for **vendors** and **walk-in customers**, it enables users
 
 # ☕ Fun Facts
 
-* 💙 Coffee + Code = Productivity
 * 🌙 Night Owl Developer
 * 🧠 Learning never stops
 * 🚀 I enjoy exploring emerging technologies.
@@ -208,35 +174,7 @@ Designed exclusively for **vendors** and **walk-in customers**, it enables users
 
 # 💭 Quote
 
-> **"Every expert was once a beginner. Every professional was once consistent."**
-
----
-
-# ⚡ 2026 Mission
-
-```text
-✔ JavaScript Mastery
-
-✔ MERN Stack
-
-✔ React Ecosystem
-
-✔ Build Real Projects
-
-✔ Strengthen DSA
-
-⬜ TypeScript
-
-⬜ Next.js
-
-⬜ Docker
-
-⬜ Machine Learning
-
-⬜ Cybersecurity
-
-⬜ Open Source
-```
+> **"If it's DO or DIE, you do DAY-DIE."**
 
 ---
 
