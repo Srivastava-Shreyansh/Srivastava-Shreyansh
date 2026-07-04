@@ -45,8 +45,6 @@ Every project I build is another step toward becoming a developer capable of des
 
 ---
 
-
-
 # 💻 Tech Arsenal
 
 ## 🚀 Languages
@@ -121,27 +119,6 @@ Designed exclusively for **vendors** and **walk-in customers**, it enables users
 
 ---
 
-# 🎯 Goals
-
-## Short-Term
-
-* Become a confident Full Stack Developer
-* Build production-ready MERN applications
-* Improve DSA & Problem Solving
-* Contribute to Open Source
-
----
-
-## Long-Term
-
-* Cybersecurity Engineer
-* AI Research
-* Machine Learning
-* Deep Learning
-* Build products impacting millions of users
-
----
-
 # 🌍 Connect With Me
 
 <p align="center">
@@ -159,16 +136,6 @@ Designed exclusively for **vendors** and **walk-in customers**, it enables users
 </a>
 
 </p>
-
----
-
-# ☕ Fun Facts
-
-* 🌙 Night Owl Developer
-* 🧠 Learning never stops
-* 🚀 I enjoy exploring emerging technologies.
-* 🤖 AI fascinates me.
-* 🔐 Cybersecurity is my long-term destination.
 
 ---
 
