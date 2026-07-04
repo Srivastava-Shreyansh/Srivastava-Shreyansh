@@ -137,36 +137,6 @@ Every project I build is another step toward becoming a developer capable of des
 
 ---
 
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Srivastava-Shreyansh&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srivastava-Shreyansh&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Srivastava-Shreyansh&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Srivastava-Shreyansh&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</p>
-
----
-
 # 📈 Contribution Graph
 
 <p align="center">
@@ -191,33 +161,11 @@ AI-powered digital assistant simplifying access to government services.
 
 ---
 
-### 📄 AI Resume Builder
+### 🌮 ThelaTak *(Startup Concept)*
 
-Generate ATS-friendly resumes using Artificial Intelligence.
+**ThelaTak** is a location-based street food platform that modernizes India's street food ecosystem without changing its authenticity.
 
----
-
-### 🎭 Face Recognition Attendance
-
-Smart attendance system using Computer Vision.
-
----
-
-### 🔐 Password Manager
-
-Secure password storage with encryption.
-
----
-
-### 💬 AI Chatbot
-
-Conversational AI assistant built using modern LLM technologies.
-
----
-
-### 💰 Expense Tracker
-
-Track expenses, visualize spending and manage budgets efficiently.
+Designed exclusively for **vendors** and **walk-in customers**, it enables users to discover nearby food stalls through **live location tracking**, browse **digital menus with fixed pricing**, place **app-based orders directly at the stall**, and pay using **UPI or cash with digital transaction records**.
 
 ---
 
