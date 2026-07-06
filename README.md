@@ -24,16 +24,6 @@ Status:          Always Learning 🚀
 
 ---
 
-## 🚀 Developer Philosophy
-
-> I don't just learn technologies—I learn **how technologies solve problems.**
-
-I believe that great software is built by people who stay curious.
-
-Every project I build is another step toward becoming a developer capable of designing scalable systems, creating impactful AI solutions, and exploring the fascinating world of cybersecurity.
-
----
-
 # ⚡ Currently Working On
 
 * 🌱 Mastering **JavaScript**
@@ -51,7 +41,7 @@ Every project I build is another step toward becoming a developer capable of des
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,typescript,php"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,typescript,php" height="300px" width="300px"/>
 
 </p>
 
@@ -61,7 +51,7 @@ Every project I build is another step toward becoming a developer capable of des
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react,redux"/>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react,redux" height="300px" width="300px"/>
 
 </p>
 
@@ -71,7 +61,7 @@ Every project I build is another step toward becoming a developer capable of des
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,nextjs"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nextjs" height="150px" width="150px"/>
 
 </p>
 
@@ -81,7 +71,7 @@ Every project I build is another step toward becoming a developer capable of des
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres"/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" height="150px" width="150px"/>
 
 </p>
 
@@ -91,31 +81,9 @@ Every project I build is another step toward becoming a developer capable of des
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,pycharm,webstorm"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,pycharm,webstorm" height="300px" width="300px"/>
 
 </p>
-
----
-
-# 🚀 Featured Projects
-
-### 🎓 Integrated Virtual Classroom & Management Platform
-
-An all-in-one platform connecting students, teachers and administrators.
-
----
-
-### 🤖 SarkarSathi
-
-AI-powered digital assistant simplifying access to government services.
-
----
-
-### 🌮 ThelaTak *(Startup Concept)*
-
-**ThelaTak** is a location-based street food platform that modernizes India's street food ecosystem without changing its authenticity.
-
-Designed exclusively for **vendors** and **walk-in customers**, it enables users to discover nearby food stalls through **live location tracking**, browse **digital menus with fixed pricing**, place **app-based orders directly at the stall**, and pay using **UPI or cash with digital transaction records**.
 
 ---
 
@@ -144,9 +112,3 @@ Designed exclusively for **vendors** and **walk-in customers**, it enables users
 > **"If it's DO or DIE, you do DAY-DIE."**
 
 ---
-
-<p align="center">
-
-### ⭐ *"Building today. Learning forever. One commit at a time."*
-
-</p>
