@@ -89,7 +89,7 @@ Status:          Always Learning 🚀
 
 # 🌍 Connect With Me
 
-<p align="center">
+<p gap="40px">
 
 <a href="https://www.linkedin.com/in/shreyansh-srivastava-526787303">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
