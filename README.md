@@ -35,58 +35,6 @@ Status:          Always Learning 🚀
 
 ---
 
-# 💻 Tech Arsenal
-
-## 🚀 Languages
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,typescript,php" height="300px" width="300px"/>
-
-</p>
-
----
-
-## 🎨 Frontend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react,redux" height="300px" width="300px"/>
-
-</p>
-
----
-
-## ⚙ Backend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,nextjs" height="150px" width="150px"/>
-
-</p>
-
----
-
-## 🗄 Database
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" height="150px" width="150px"/>
-
-</p>
-
----
-
-## 🛠 Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,pycharm,webstorm" height="300px" width="300px"/>
-
-</p>
-
----
-
 # 🌍 Connect With Me
 
 <p gap="40px">
