@@ -14,12 +14,12 @@
 
 ```yaml
 Name:            Shreyansh Srivastava
-Location:        Kanpur Nagar, India 🇮🇳
+Location:        Kanpur Nagar, Uttar Pradesh, India
 Education:       B.Tech. CSE (AI & ML)
 Passion:         Full Stack Development
 Future Vision:   Cybersecurity + AI
 Current Focus:   MERN Stack + DSA + JavaScript
-Status:          Always Learning 🚀
+Status:          If it's DO or DIE, you do DAY-DIE.🚀
 ```
 
 ---
@@ -32,31 +32,5 @@ Status:          Always Learning 🚀
 * 🎨 Learning **UI/UX using Figma**
 * ⚙️ Strengthening Git & GitHub workflow
 * 🧠 Improving Problem Solving Skills
-
----
-
-# 🌍 Connect With Me
-
-<p gap="40px">
-
-<a href="https://www.linkedin.com/in/shreyansh-srivastava-526787303">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="https://x.com/Shreyansh_S72">
-<img src="https://skillicons.dev/icons?i=twitter"/>
-</a>
-
-<a href="https://www.hackerrank.com/profile/shreyansh_deept1">
-<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-# 💭 Quote
-
-> **"If it's DO or DIE, you do DAY-DIE."**
 
 ---
