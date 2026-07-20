@@ -3,9 +3,9 @@
 ```yaml
 Name:            Shreyansh Srivastava
 Location:        Kanpur Nagar, Uttar Pradesh, India
-Education:       B.Tech. CSE (AI & ML)
+Education:       Currently pursuing B.Tech. CSE (AI & ML)
 Passion:         Full Stack Development
-Future Vision:   Cybersecurity + AI
+Future Vision:   Cybersecurity + (AI & ML)
 Current Focus:   MERN Stack + DSA + JavaScript
 Status:          If it's DO or DIE, you do DAY-DIE.🚀
 ```
